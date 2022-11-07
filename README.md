@@ -1,6 +1,6 @@
 # Revature Project One | Bug Catcher
 
-> Outline: create test cases and reports based on the finding of a web application, Bug Catcher
+> Outline: create test cases and reports based on the findings of a web application, Bug Catcher
 
 ### Project Overview
 Tools used were `Maven`, `Selenium`, `Cucumber`, `TestNG`
