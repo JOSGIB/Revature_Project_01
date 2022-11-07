@@ -1,13 +1,14 @@
 # Revature Project One | Bug Catcher
 
-> Outline: create test cases and reports based on the finding of a web application
+> Outline: create test cases and reports based on the finding of a web application, Bug Catcher
 
 ### Project Overview
 Tools used were `Maven`, `Selenium`, `Cucumber`, `TestNG`
 ```
- Using the tools listed above I was able to create and define test cases for the predefined
- feature files. As well, with information gained through out the project, I was able to 
- create a Requirement Traceability Matrixs (RTM), Test Case Document, Defect Report Document.
+ Using the tools listed above I was able to create and define test cases for web application
+ pre-defined feature files. The web application, Bug Catcher, is a test case and bug-reporting
+ management system. As well, with information gained throughout the project, I was able to 
+ create Requirement Traceability Matrixs (RTM), Test Case Documents, and Defect Report Documents.
 ```
 
 ### Project Output
