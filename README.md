@@ -12,7 +12,7 @@ Tools used were `Maven`, `Selenium`, `Cucumber`, `TestNG`, `Gherkin`
 ```
 
 ### Project Output
-##### Doucumentaiton
+##### Documentation
 > [View Documentation File](/Project_Documentation.xlsx)
 <sub>
 The link above is the source location for the Requirement Traceability Matrixs (RTM), Test Case Document, Defect Report Document
