@@ -13,13 +13,13 @@ Tools used were `Maven`, `Selenium`, `Cucumber`, `TestNG`
 
 ### Project Output
 ##### Doucumentaiton
-> [View Documentation File](/Project_Documentation.xlsx).
+> [View Documentation File](/Project_Documentation.xlsx)
 <sub>
 The link above is the source location for the Requirement Traceability Matrixs (RTM), Test Case Document, Defect Report Document
 </sub>
   
 ##### Test Cases
-> [Run Test Cases](/java-automation-project-01/src/test/java/com/revature/runner).
+> [Run Test Cases](/java-automation-project-01/src/test/java/com/revature/runner)
 <sub>
-The link above is the source location to run the test cases implemented by the guidelines.
+The link above is the source location to run the test cases implemented by the guidelines
 </sub>
